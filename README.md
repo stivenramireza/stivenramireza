@@ -30,9 +30,3 @@ I've been learning to code for 4+ years. I started with frontend development, bu
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/stivenramireza" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/stivenramireza" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/stivenramireza" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
-
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/stivenramireza"><img src="https://github-readme-stats.vercel.app/api?username=stivenramireza&show_icons=true&hide=issues,contribs&count_private=true&title_color=0891b2&text_color=000000&icon_color=0891b2&bg_color=ffffff&hide_border=true&show_icons=true" alt="stivenramireza's GitHub stats" /></a>
