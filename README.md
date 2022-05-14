@@ -1,4 +1,4 @@
-Hi 👋 My name is Stiven Ramírez Arango
+Hi 👋 My name is Stiven
 ======================================
 
 Senior Backend Developer
