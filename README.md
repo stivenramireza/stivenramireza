@@ -8,7 +8,7 @@ I've been learning to code for 4+ years. I started with frontend development, bu
 
 * 🌍  I'm based in Medellín, Antioquia, Colombia
 * ✉️  You can contact me at [stivenramireza@gmail.com](mailto:stivenramireza@gmail.com)
-* 🚀  I'm currently working on [Habi](http://habi.co)
+* 🚀  I'm currently working at [Habi](http://habi.co)
 * 🧠  I'm learning serverless computing
 * 🤝  I'm open to collaborating on interesting projects
 
