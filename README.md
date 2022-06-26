@@ -4,7 +4,7 @@ Hi 👋 My name is Stiven
 Senior Backend Developer
 ------------------------
 
-I've been learning to code for 4+ years. I started with frontend development, but have really found a passion for backend development.
+I'm a systems engineer with 4+ years of experience in software development. I have skills for research, teamwork and leadership. I consider myself as a self-taught person and passionate about what I do.
 
 * 🌍  I'm based in Medellín, Antioquia, Colombia
 * ✉️  You can contact me at [stivenramireza@gmail.com](mailto:stivenramireza@gmail.com)
