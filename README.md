@@ -1,14 +1,14 @@
 Hi 👋 My name is Stiven
 ======================================
 
-Senior Backend Developer
+Software Engineer
 ------------------------
 
 I'm a systems engineer with 3+ years of experience in software development. I have skills for research, teamwork and leadership. I consider myself as a self-taught person and passionate about what I do.
 
 * 🌍  I'm based in Medellín, Antioquia, Colombia
 * ✉️  You can contact me at [stivenramireza@gmail.com](mailto:stivenramireza@gmail.com)
-* 🚀  I'm currently working at [Habi](http://habi.co)
+* 🚀  I'm currently working at [Habi](http://habi.co) as Senior Backend Developer
 * 🧠  I'm learning serverless computing
 * 🤝  I'm open to collaborating on interesting projects
 
