@@ -1,7 +1,7 @@
 Hi 👋 My name is Stiven
 ======================================
 
-Software Engineer
+Systems Engineer & Software Development Specialist
 ------------------------
 
 I'm a systems engineer and software development specialist with 3+ years of experience. I have skills for research, teamwork and leadership. I consider myself as a self-taught person and passionate about what I do.
