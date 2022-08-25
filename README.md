@@ -8,7 +8,7 @@ I'm a systems engineer and software development specialist with 3+ years of expe
 
 * 🌍  I'm based in Medellín, Antioquia, Colombia.
 * ✉️  You can contact me at [stivenramireza@gmail.com](mailto:stivenramireza@gmail.com).
-* 🚀  I'm currently working as Backend Developer at [Habi](http://habi.co).
+* 🚀  I'm currently working as Senior Backend Developer at [Habi](http://habi.co).
 * 🧠  I'm learning serverless computing.
 * 🤝  I'm open to collaborating on interesting projects.
 
