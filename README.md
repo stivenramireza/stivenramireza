@@ -8,6 +8,7 @@ I'm a software development specialist with 3+ years of experience. I have skills
 
 * 🌍  I'm based in Medellín, Antioquia, Colombia.
 * ✉️  You can contact me at [stivenramireza@gmail.com](mailto:stivenramireza@gmail.com).
+* 🚀  I'm currently working as Backend Engineer at [tyba](https://tyba.com.co).
 * 🧠  I'm learning serverless computing.
 * 🤝  I'm open to collaborating on interesting projects.
 
