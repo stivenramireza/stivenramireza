@@ -1,10 +1,10 @@
 Hi 👋 I'm Stiven
 ======================================
 
-Systems Engineer & Software Development Specialist
+Software Engineering Specialist
 ------------------------
 
-I'm a systems engineer and software development specialist with 3+ years of experience. I have skills for research, teamwork and leadership. I consider myself as a self-taught person and passionate about what I do.
+I'm a software engineering specialist with 3+ years of experience. I have skills for research, teamwork and leadership. I consider myself as a self-taught person and passionate about what I do.
 
 * 🌍  I'm based in Medellín, Antioquia, Colombia.
 * ✉️  You can contact me at [stivenramireza@gmail.com](mailto:stivenramireza@gmail.com).
