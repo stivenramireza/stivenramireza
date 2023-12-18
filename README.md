@@ -8,7 +8,7 @@ I'm a software engineering specialist with about 5 years of experience. I have s
 
 * 🌍  I'm based in Sabaneta, Antioquia, Colombia.
 * ✉️  You can contact me at [stivenramireza@gmail.com](mailto:stivenramireza@gmail.com).
-* 🚀  I'm currently working as Backend Engineer at [tyba](https://tyba.com.co).
+* 🚀  I'm currently working as Backend Engineer at [tyba por Credicorp Capital](https://tyba.com.co).
 * 🧠  I'm learning serverless computing.
 * 🤝  I'm open to collaborating on interesting projects.
 
