@@ -4,11 +4,11 @@ Hi 👋 I'm Stiven
 Software Engineering Specialist
 ------------------------
 
-I'm a software engineering specialist with 5 years of experience. I have skills for research, teamwork and leadership. I consider myself as a self-taught person and passionate about what I do.
+I'm a software engineering specialist with 5+ years of experience. I have skills for research, teamwork and leadership. I consider myself as a self-taught person and passionate about what I do.
 
 * 🌍  I'm based in Medellín, Antioquia, Colombia.
 * ✉️  You can contact me at [stivenramireza@gmail.com](mailto:stivenramireza@gmail.com).
-* 🚀  I'm currently working as Backend Engineer at [tyba por Credicorp Capital](https://tyba.com.co).
+* 🚀  I'm currently working as Backend Engineer III at [tyba por Credicorp Capital](https://tyba.com.co).
 * 🧠  I'm learning serverless computing.
 * 🤝  I'm open to collaborating on interesting projects.
 
