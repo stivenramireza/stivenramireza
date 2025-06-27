@@ -1,7 +1,7 @@
 Hi 👋 I'm Stiven
 ======================================
 
-Software Engineering Specialist | Tech | Startups
+Software Engineer | Tech | Startups
 ------------------------
 
 I'm a software engineering specialist with 5+ years of experience. I have skills for research, teamwork and leadership. I consider myself as a self-taught person and passionate about what I do.
