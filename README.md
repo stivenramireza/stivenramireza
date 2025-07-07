@@ -4,7 +4,7 @@ Hi 👋 I'm Stiven
 Software Engineer | Tech | Startups
 ------------------------
 
-I'm a software engineer with 6 years of experience. I have skills for research, teamwork and leadership. I consider myself as a self-taught person and passionate about what I do.
+I'm a software engineer with 6+ years of experience. I have skills for research, teamwork and leadership. I consider myself as a self-taught person and passionate about what I do.
 
 * 🌍  I'm based in Medellín, Antioquia, Colombia.
 * ✉️  You can contact me at [stivenramireza@gmail.com](mailto:stivenramireza@gmail.com).
