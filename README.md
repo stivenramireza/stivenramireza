@@ -9,7 +9,6 @@ I'm a software engineer with 6+ years of experience. I have skills for research,
 * 🌍  I'm based in Medellín, Antioquia, Colombia.
 * ✉️  You can contact me at [stivenramireza@gmail.com](mailto:stivenramireza@gmail.com).
 * 🚀  I'm currently working as Backend Engineer IV at [tyba por Credicorp Capital](https://tyba.com.co).
-* 🧠  I'm learning serverless computing.
 * 🤝  I'm open to collaborating on interesting projects.
 
 ### Skills
