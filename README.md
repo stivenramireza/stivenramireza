@@ -1,7 +1,7 @@
 Hi 👋 I'm Stiven
 ======================================
 
-Software Engineer | Tech | Startups
+Software Engineer | AI | Startups
 ------------------------
 
 I'm a software engineer with 6+ years of experience. I have skills for research, teamwork and leadership. I consider myself as a self-taught person and passionate about what I do.
