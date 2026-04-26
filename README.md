@@ -1,10 +1,8 @@
 # 👋 Hi, I'm Stiven
 
-**Software Engineer | AI | Startups**
+## Software Engineer | AI | Startups
 
----
-
-## About Me
+### About Me
 
 Software engineer with 6+ years of experience specializing in backend development and emerging technologies. Passionate about solving complex problems through innovative solutions with strong research, teamwork, and leadership skills. Self-taught learner committed to continuous growth and excellence.
 
@@ -13,11 +11,9 @@ Software engineer with 6+ years of experience specializing in backend developmen
 - 🤝 Open to collaborating on **innovative and challenging projects**
 - ✉️ Contact me at **[stivenramireza@gmail.com](mailto:stivenramireza@gmail.com)**
 
----
+### Tech Stack
 
-## Tech Stack
-
-### Backend
+#### Backend
 <p align="left">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
 <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" width="36" height="36" alt="Fast API" /></a>
@@ -29,27 +25,25 @@ Software engineer with 6+ years of experience specializing in backend developmen
 <a href="https://nestjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nestjs-colored.svg" width="36" height="36" alt="NestJS" /></a>
 </p>
 
-### Databases
+#### Databases
 <p align="left">
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
 </p>
 
-### DevOps & Cloud
+#### DevOps & Cloud
 <p align="left">
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a>
 <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="AWS" /></a>
 </p>
 
-### AI
+#### AI
 <p align="left">
 <a href="https://claude.com/product/claude-code" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/b/b0/Claude_AI_symbol.svg" width="36" height="36" alt="Claude Code" /></a>
 </p>
 
----
-
-## Connect With Me
+### Connect With Me
 
 <p align="left">
 <a href="https://www.github.com/stivenramireza" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
