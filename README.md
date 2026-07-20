@@ -4,7 +4,7 @@
 
 ### About Me
 
-Software engineer with 6+ years of experience specializing in backend development and emerging technologies. Passionate about solving complex problems through innovative, scalable solutions, with a strong foundation in research, collaboration, and technical leadership. A self-taught engineer driven by a deep commitment to continuous growth and engineering excellence.
+Software engineer with 7+ years of experience specializing in backend development and emerging technologies. Passionate about solving complex problems through innovative, scalable solutions, with a strong foundation in research, collaboration, and technical leadership. A self-taught engineer driven by a deep commitment to continuous growth and engineering excellence.
 
 - 🌍 Based in **Medellín, Antioquia, Colombia**.
 - 💼 Currently **Backend Engineer IV** at [tyba por Credicorp Capital](https://tyba.com.co).
