@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Stiven
 
-## Software Engineer | AI | Startups
+## Software Engineer | Backend | AI
 
 ### About Me
 
